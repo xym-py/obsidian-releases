@@ -44553,5 +44553,13 @@
     "author": "羽鳞君",
     "description": "面向中文用户的 Obsidian 社区插件搜索工具：输入关键词即可检索并展示翻译后的插件卡片，支持 AI 语义 / 名称 / 作者搜索。默认不加载列表，搜索时才出结果。 / A Chinese-region Obsidian community plugin search tool: type a keyword to find and browse translated plugin cards, with AI semantic / name / author search. List loads on demand. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "miaoziguan/obsidian-chinese-plugin-market"
+  },
+  {
+    "id": "progress-dashboard",
+    "name": "学习项目进度看板",
+    "author": "xym-py",
+    "description": "一个可视化展示学习技能进度的插件，通过笔记YAML字段自动关联技能，支持手动拖动调整进度",
+    "repo": "xym-py/progress-dashboard",
+    "branch": "main"
   }
 ]
